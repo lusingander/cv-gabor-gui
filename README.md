@@ -3,6 +3,8 @@ cv-gabor-gui
 
 application to check the result of Gabor filter on GUI
 
+<img src="images/screenshot.png">
+
 ## Requirement
 
 - Python 3.7 or later
